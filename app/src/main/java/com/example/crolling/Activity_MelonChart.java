@@ -143,5 +143,5 @@ public class Activity_MelonChart extends AppCompatActivity {
 //            }
 //
 //            mProgressDialog.dismiss();
-//        }
+//        } 수정해봤습니다.
 }
